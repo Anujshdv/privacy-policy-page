@@ -1,0 +1,18 @@
+.privacy-policy-bg-container {
+    background-color: white;
+}
+
+.peivacy-policy-main-heading {
+    color: #bf660d;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.privacy-policy-sub-heading {
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.privacy-policy-description {
+    font-size: 14px;
+}
